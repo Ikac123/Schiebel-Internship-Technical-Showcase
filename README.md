@@ -14,7 +14,7 @@ This section highlights the transition from an industrial paper drawing to a fun
 ### Digital CAD Reconstruction (SolidWorks)
 ![Handradwelle 3D Model Screenshot](part%2011772.JPG)
 * **Description:** High-precision 3D model recreated in SolidWorks.
-* 📂 **Source CAD File:** [Download Handradwelle.sldprt](./3D%20part%2011772%20.SLDPRT
+* 📂 **Source CAD File:** [Download Handradwelle.sldprt](./3D%20part%2011772.SLDPRT)
 
 ---
 
