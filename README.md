@@ -12,10 +12,9 @@ This section highlights the transition from an industrial paper drawing to a fun
 * **Description:** Interpreting official Schiebel engineering drawings for the *Handradwelle* (Handwheel Shaft). Focus on complex GD&T tolerances and material specs (1.4301 stainless steel).
 
 ### Digital CAD Reconstruction (SolidWorks)
-![Handradwelle 3D Model Screenshot](part 11772.JPG)
-* **Description:** High-precision 3D model recreated in SolidWorks, matching the exact engineering specifications from the blueprint.
-* 📂 Source CAD File: [Download Handradwelle.sldprt](./3D%20part%2011772.SLDPRT)
-*(Note: Click the link above to view or download the original SolidWorks part file).*
+![Handradwelle 3D Model Screenshot](part%2011772.JPG)
+* **Description:** High-precision 3D model recreated in SolidWorks.
+* 📂 **Source CAD File:** [Download Handradwelle.sldprt](./3D%20part%2011772%20.SLDPRT
 
 ---
 
